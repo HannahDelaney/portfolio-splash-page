@@ -1,0 +1,22 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: teal;
+}
+
+.content-container {
+  background-image: linear-gradient(to bottom, white, lightblue);
+  background-color: purple;
+  height: 100vh;
+}
+
+.content {
+  position: relative;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+}

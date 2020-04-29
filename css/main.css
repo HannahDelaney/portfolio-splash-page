@@ -20,3 +20,16 @@ body {
 h1 {
   color: darkgreen;
 }
+
+.social-links {
+  display: inline-flex;
+}
+
+.icon-link {
+  transition: all .5s ease;
+  color: teal;
+}
+
+.icon-link:hover {
+  color: darkgreen;
+}
